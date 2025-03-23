@@ -50,6 +50,12 @@ Your project will be live at:
 
 ---
 
+## 🌟 Demo Preview  
+![Demo](./demo.png)
+
+
+---
+
 ## 🤝 **Contributing**
 This is a personal practice repository, but feel free to fork and experiment. 🚀  
 
