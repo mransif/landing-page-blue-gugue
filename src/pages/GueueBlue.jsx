@@ -7,7 +7,6 @@ const GueueBlue = () => {
     <div className='spline-wrapper'>
       <div className="spline-container">
         <Spline scene="https://prod.spline.design/pMUsUzQd2iNS05xZ/scene.splinecode" />
-        abcde
       </div>
     </div>
   )

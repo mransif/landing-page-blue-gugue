@@ -8,7 +8,6 @@ This is a practice repository where I built a stylish **single-page web app** us
 ## 🚀 **Tech Stack**
 - ⚙️ **Frontend:** React.js  
 - 🎨 **3D Model:** Spline (https://spline.design)  
-- 💅 **Styling:** Tailwind CSS (if applicable)  
 
 ---
 

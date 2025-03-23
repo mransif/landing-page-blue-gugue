@@ -1,4 +1,5 @@
 import React, { lazy, Suspense } from 'react'
+import Hero1 from './pages/Hero1'
 
 
 const GueueBlue = lazy(() => import('./pages/GueueBlue'))
@@ -6,10 +7,12 @@ const GueueBlue = lazy(() => import('./pages/GueueBlue'))
 const App = () => {
   return (
     <div>
-      <div className="heading" >Because ‘good enough’ isn’t a design trend.</div>
       <Suspense fallback={<div>Loading...</div>}>
-      <GueueBlue/>
+        <GueueBlue />
       </Suspense>
+      <div className='upper-part'>
+        <Hero1/>
+      </div>
     </div>
   )
 }
