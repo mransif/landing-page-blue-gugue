@@ -10,7 +10,7 @@ const App = () => {
       <Suspense fallback={<div>Loading...</div>}>
         <GueueBlue />
       </Suspense>
-      <div className='upper-part'>
+      <div className='upper-part pointer-events-none'>
         <Hero1/>
       </div>
     </div>
