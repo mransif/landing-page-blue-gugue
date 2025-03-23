@@ -51,7 +51,7 @@ Your project will be live at:
 ---
 
 ## 🌟 Demo Preview  
-![Demo](./demo.png)
+![Demo](./src/assets/demo.png)
 
 
 ---
